@@ -1,6 +1,6 @@
 {
     "name": "@fightant1w1ll/prominate",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "an implementation of promises-aplus",
     "main": "index.js",
     "devDependencies": {
