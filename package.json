@@ -1,0 +1,18 @@
+{
+    "name": "@fightant1w1ll/prominate",
+    "version": "0.0.1",
+    "description": "an implementation of promises-aplus",
+    "main": "index.js",
+    "devDependencies": {
+        "promises-aplus-tests": "^2.1.2"
+    },
+    "scripts": {
+        "test": "promises-aplus-tests tests/adapter",
+        "mytest": "node tests/mytest"
+    },
+    "keywords": [
+        "promises-aplus"
+    ],
+    "author": "fightant1w1ll",
+    "license": "MIT"
+}
